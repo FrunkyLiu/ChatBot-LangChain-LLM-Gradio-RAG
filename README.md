@@ -47,7 +47,7 @@ model = Gemini("database.txt")
 
 Below is an example image of the Gradio interface you will interact with after running app.py:
 
-![Gradio Interface Example](./images/attack.png)
+![Gradio Interface Example](images/attack.png)
 
 ## Conclusion
 This project demonstrates how to integrate Gradio, LangChain, and RAG to build a powerful and customizable chatbot. By following the provided structure and examples, you can implement your own chatbot with your preferred LLM model and document database.
